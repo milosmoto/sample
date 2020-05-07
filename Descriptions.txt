@@ -1,0 +1,4 @@
+AcountsPage - Component that present subscriptions and solution to prevent memory leaks
+WebapiAccountsService - Service which connect AccountPage with HTTP intercepter
+ConnectionService - Interceptor for http calls (used rxjs operators)
+AuthenticationService - Service for user authentication
